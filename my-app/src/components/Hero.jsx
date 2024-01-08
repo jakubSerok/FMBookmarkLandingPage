@@ -16,7 +16,7 @@ const Hero = () =>{
                 </div>
                 <div className="relative max-sm:order-first">
                     <img className="" src={Img} alt="" />
-                    {/*<div className="absolute bottom-0 right-[-30vw] z-[-1] h-[352px] w-[1000px] bg-[#5267DF] rounded-full max-sm:w-[577px] max-sm:h-[203px]"></div>*/}
+                    <div className="absolute bottom-0 right-[-30vw] z-[-1] h-[352px] w-[1000px] bg-[#5267DF] rounded-full max-sm:w-[577px] max-sm:h-[203px] max-sm:right-[-80vw]"></div>
                 </div>                
             </div>
         </div>
